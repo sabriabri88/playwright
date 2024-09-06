@@ -7,6 +7,6 @@
   },
   "author": "",
   "dependencies": {
-    "@azure/storage-blob": "^12.2.1"
+    "@azure/storage-blob": "^12.13.0"
   }
 }
